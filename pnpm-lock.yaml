@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       merch-design-enhancer:
-        specifier: ^1.0.2
-        version: 1.0.2
+        specifier: ^1.0.3
+        version: 1.0.3
       next:
         specifier: 16.1.1
         version: 16.1.1(@babel/core@7.28.5)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
@@ -1460,8 +1460,8 @@ packages:
     resolution: {integrity: sha512-/IXtbwEk5HTPyEwyKX6hGkYXxM9nbj64B+ilVJnC/R6B0pH5G4V3b0pVbL7DBj4tkhBAppbQUlf6F6Xl9LHu1g==}
     engines: {node: '>= 0.4'}
 
-  merch-design-enhancer@1.0.2:
-    resolution: {integrity: sha512-of+d8uGSq9kggM67yj905EdZEizsKEBI7SFaSxb82bxy+2IErdG1tZan4TWHKoU+bQArwLhEcr2l4l1AkhGWpQ==}
+  merch-design-enhancer@1.0.3:
+    resolution: {integrity: sha512-OvgiCbjQOZoXktJZbIQCcT54UOtzZ/chXj21wUqrrrSbziypxqo903DFgqVFYv2Uxkwuco6GW8ENw+hwcS2Wsw==}
     engines: {node: '>=18.0.0'}
 
   merge2@1.4.1:
@@ -3440,7 +3440,7 @@ snapshots:
 
   math-intrinsics@1.1.0: {}
 
-  merch-design-enhancer@1.0.2: {}
+  merch-design-enhancer@1.0.3: {}
 
   merge2@1.4.1: {}
 
